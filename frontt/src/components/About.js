@@ -9,7 +9,7 @@ const About = () => {
           This is a CRUD Application
         </Typography>
         <Typography sx={{ fontFamily: "fantasy" }} variant="h3">
-          By MERN STACK
+          
         </Typography>
       </Box>
     </div>
